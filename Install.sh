@@ -18,4 +18,4 @@ chmod +x $PREFIX/bin/kurdphisher
 echo
 echo "✅ KurdPhisher installed successfully!"
 echo "▶ Run it with: kurdphisher"
-echo
+echo "بنووسە kurdphisher"
